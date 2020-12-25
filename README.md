@@ -1,1 +1,2 @@
 # GitMaven
+git init
