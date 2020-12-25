@@ -9,7 +9,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class LoginTest {
 
 	
-	public static String browser = "chrome";
+	public static String browser = "firefox";
 	//public static ChromeDriver driver; // it is better to use a super reference like parent
 	// below line webdriver is parent of all driver class 
 	//changing driver at run time is part of run time polymorphism
